@@ -1,9 +1,8 @@
 ```mermaid
 flowchart TD
-A([Start]) --> B[/Input grade1/]
-B --> C[/Input grade2/]
-C --> D[/Input grade3/]
-D --> E[average = (grade1+grade2+grade3)/3]
-E --> F[/Display average/]
-F --> G([End])
+A([Start]) --> B[/Input length/]
+B --> C[/Input width/]
+C --> D[area = length * width]
+D --> E[/Display area/]
+E --> F([End])
 ```
