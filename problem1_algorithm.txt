@@ -11,6 +11,7 @@
  Step 5: Display sum
  Step 6: End.
 
+Activity 2:
 Problem:
 Ask the user for a number. If the number is divisible by 2, display "Even". Otherwise,
 display "Odd".
@@ -22,6 +23,7 @@ Step 4: If yes, display "Even".
 Step 5: If no, display "Odd".
 Step 6: End.
 
+Activity 3:
 Problem:
 Ask the user for the length and width of a rectangle. Compute the area and display the
 result.
