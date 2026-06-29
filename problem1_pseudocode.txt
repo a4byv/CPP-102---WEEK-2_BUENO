@@ -18,6 +18,7 @@ DISPLAY average
 END
 
 Activity 3:
+Pseudocode:
 START
 INPUT number
 IF number MOD 2 = 0 THEN
