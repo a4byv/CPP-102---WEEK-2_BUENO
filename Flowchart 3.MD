@@ -1,9 +1,7 @@
-```mermaid
-flowchart TD
-A([Start]) --> B[/Input number/]
-B --> C{Is number >= 0?}
-C -- Yes --> D[/Display Positive/]
-C -- No --> E[/Display Negative/]
-D --> F([End])
-E --> F
-```
+START
+INPUT grade1
+INPUT grade2
+INPUT grade3
+PROCESS average = (grade1 + grade2 + grade3) / 3
+DISPLAY average
+END
