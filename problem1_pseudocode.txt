@@ -1,0 +1,29 @@
+Activity 1
+Pseudocode:
+START
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+Activity 2:
+Pseudocode:
+START
+INPUT grade1
+INPUT grade2
+INPUT grade3
+PROCESS average = (grade1 + grade2 + grade3) / 3
+DISPLAY average
+END
+
+Activity 3:
+START
+INPUT number
+IF number MOD 2 = 0 THEN
+DISPLAY "Even"
+ELSE
+DISPLAY "Odd"
+END IF
+END
+
